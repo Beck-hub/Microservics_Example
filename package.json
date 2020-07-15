@@ -4,7 +4,8 @@
   "description": "API microservices project",
   "main": "app.js",
   "scripts": {
-    "devStart": "nodemon app.js"
+    "devStart": "nodemon app.js",
+    "start": "node server.js"
   },
   "author": "Rebekah Schonauer",
   "license": "MIT",
