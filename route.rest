@@ -1,0 +1,3 @@
+GET http://localhost:3000/dateValues:December%2015,%202015
+### 
+GET http://localhost:3000/dateValues/December%2015000
